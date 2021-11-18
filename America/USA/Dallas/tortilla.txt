@@ -1,0 +1,17 @@
+Applications
+Desktop
+Documents
+Downloads
+GirProsjektDelete
+Gitprojekt
+Library
+Movies
+Music
+Namu pdarbai solve problem
+Pictures
+Public
+Untitled.ipynb
+Untitled1.ipynb
+anotherdir
+file.txt
+untitled.txt
